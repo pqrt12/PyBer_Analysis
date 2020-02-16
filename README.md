@@ -32,4 +32,4 @@ Data processing and visualizing.
 - plot.  
     note: Date is week ending date.  
 
-![PyBer Weekly Fares (2019)] (https://github.com/pqrt12/PyBer_Analysis/blob/master/analysis/Fig8.png)
+![PyBer Weekly Fares (2019)](https://github.com/pqrt12/PyBer_Analysis/blob/master/analysis/Fig8.png)
