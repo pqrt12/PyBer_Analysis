@@ -33,3 +33,13 @@ Data processing and visualizing.
     note: Date is week ending date.  
 
 ![PyBer Weekly Fares (2019)](https://github.com/pqrt12/PyBer_Analysis/blob/master/analysis/Fig8.png)
+
+## Summary
+From the summary table, about 80% of PyBer drivers work in Urban cities, close to 20% of drivers work in Suburban cities, a few percent of drivers work in rural cities.
+The total rides, total fares are similarly decreasing among the three types of cities, in the order.
+However, the decreasing rates are subsequently reduced (drivers, rides and fares). 
+This pattern could also be seen from the average fare per ride and average fare per driver. Both increase in the order of urban cities, suburban cities, and rural cities.
+
+For the first four month of 2019, PyBer's total fare for all cities types are relatively stable. Urban cities are the most important markets.
+
+
